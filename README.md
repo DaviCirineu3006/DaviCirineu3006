@@ -25,9 +25,10 @@ e a vida que agora vivo na carne vivo-a na fé do Filho de Deus, o qual me amou,
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillcons.dev/icons?
-    i=arduino,aws,azure,c,debian,git,github,gmail,grafana,html,linux,mysql,nginx,ubuntu,windows,">
+  <img src="https://skillcons.dev/icons?i=arduino,aws,azure,c,debian,git,github,gmail,grafana,html,linux,mysql,nginx,ubuntu,windows">
+
 </p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white">
@@ -51,3 +52,12 @@ e a vida que agora vivo na carne vivo-a na fé do Filho de Deus, o qual me amou,
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
 <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
 </p>
+
+
+## Certificações
+
+| Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=white&color=black) | Cisco NetAcademy Introdution to Networks |
+| ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Fundations-t?logo=amazonwebservices&logoColor=white&labelColor=black&color=black) | AWS Academy Cloud Fundations |
+| ![AZURE AI-900](https://img.shields.io/badge/AZURE_Microsoft_AI-900-t?logo=icloud&logoColor=Blue&labelColor=white&color=white) | Microsoft Azure AI-900 | 
