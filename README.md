@@ -25,8 +25,7 @@ e a vida que agora vivo na carne vivo-a na fé do Filho de Deus, o qual me amou,
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillcons.dev/icons?i=arduino,aws,azure,c,debian,git,github,gmail,grafana,html,linux,mysql,nginx,ubuntu,windows">
-
+  <img src="https://skillicons.dev/icons?i=arduino,aws,azure,c,debian,git,github,gmail,grafana,html,linux,mysql,nginx,ubuntu,windows">
 </p>
 
 
@@ -61,3 +60,34 @@ e a vida que agora vivo na carne vivo-a na fé do Filho de Deus, o qual me amou,
 | ![CCNA ITN](https://img.shields.io/badge/CISCO_Introduction_To_Networks-t?style=flat&logo=cisco&logoColor=white&color=black) | Cisco NetAcademy Introdution to Networks |
 | ![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Fundations-t?logo=amazonwebservices&logoColor=white&labelColor=black&color=black) | AWS Academy Cloud Fundations |
 | ![AZURE AI-900](https://img.shields.io/badge/AZURE_Microsoft_AI-900-t?logo=icloud&logoColor=Blue&labelColor=white&color=white) | Microsoft Azure AI-900 | 
+
+## Conquistas 🏆
+
+- Curso Técnico de Redes
+- Projeto Zabbix (ZabWatch)
+- Projeto na Azure (CommerCloud)
+- Curso preparatório para o AI 900
+- Casa IOT
+- Certificado AWS CLoud Foundations
+- Tocar bateria
+
+## Projetos 🎯
+
+- Casa Inteligente voltada aos PCDs com o uso de IOT (SmartHome Sensations)
+- Monitoramento On-premises com o uso de Zabbix & Grafana (ZabWatch)
+- Infraestrutura em nuvem utilizando AWS e Azure (Commer Cloud e Scalify Tech)
+- Cabeamento Estruturado baseado em empresas reais (SENAI)
+- Infraestrutura de Redes no Packet Tracer
+
+<p align="center">
+  <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaviCirineu3006&theme=transparent&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)">
+</p>
+
+## Conecte-se comigo! 📬
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-cirineu/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+
+  <h4 align="center">
+    Obrigado por visitar!
+    
